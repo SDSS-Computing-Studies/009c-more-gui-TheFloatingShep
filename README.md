@@ -25,4 +25,3 @@ calculate the area using Heron's formula.  If that is insufficient,
 tell the user that the area cannot be calculated from the information 
 given.
 (6 points) 
-
